@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="NodeList/DBNProjectDatabases/DBNBookmarkFolder/DBNDashboardFolder/DBNDiagramFolder/DBNResource">
+		<column name="Name" visible="true" order="0" width="124"/>
+		<column name="Path" visible="true" order="1" width="183"/>
+		<column name="Size" visible="true" order="2" width="100"/>
+		<column name="Last modified" visible="true" order="3" width="122"/>
+	</item>
+	<item id="NodeList/PostgreDatabase">
+		<column name="Name" visible="true" order="0" width="266"/>
+		<column name="Description" visible="true" order="1" width="104"/>
+	</item>
+	<item id="NodeList/SQLiteTable">
+		<column name="Table Name" visible="true" order="0" width="135"/>
+		<column name="Table Type" visible="true" order="1" width="131"/>
+		<column name="Table Description" visible="true" order="2" width="151"/>
+	</item>
+	<item id="Suggestion/NodeList/PostgreTableColumn">
+		<column name="Column Name" visible="true" order="0" width="156"/>
+		<column name="#" visible="true" order="1" width="43"/>
+		<column name="Data type" visible="true" order="2" width="114"/>
+		<column name="Identity" visible="true" order="3" width="77"/>
+		<column name="Collation" visible="false" order="4" width="100"/>
+		<column name="Not Null" visible="false" order="5" width="100"/>
+		<column name="Default" visible="false" order="6" width="315"/>
+		<column name="Comment" visible="true" order="4" width="96"/>
+	</item>
+</items>

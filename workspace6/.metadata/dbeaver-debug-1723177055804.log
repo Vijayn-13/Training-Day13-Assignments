@@ -1,0 +1,135 @@
+2024-08-08 22:32:35.669 - DBeaver 24.1.4.202408041450 is starting
+2024-08-08 22:32:35.671 - OS: Windows 11 10.0 (amd64)
+2024-08-08 22:32:35.671 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-08-08 22:32:35.671 - Install path: 'C:\Users\vijay.n'
+2024-08-08 22:32:35.671 - Instance path: 'file:/C:/Users/vijay.n/AppData/Roaming/DBeaverData/workspace6/'
+2024-08-08 22:32:35.673 - Memory available 117Mb/1024Mb
+2024-08-08 22:32:35.677 - Create display
+2024-08-08 22:32:35.794 - Initialize desktop platform...
+2024-08-08 22:32:35.899 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.400.v20240426-1040]
+> Start Core Resource Management [org.eclipse.core.resources 3.20.200.v20240513-1323]
+> Start Team Support Core [org.eclipse.team.core 3.10.400.v20240413-1529]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.136.202408041450]
+2024-08-08 22:32:36.116 - 
+2024-08-08 22:32:36.116 - 	Refreshing workspace.
+2024-08-08 22:32:36.118 - Refreshing workspace contents
+2024-08-08 22:32:36.192 - Initialize base platform...
+2024-08-08 22:32:36.218 - Platform initialized (423ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.136.202408041450]
+2024-08-08 22:32:36.279 - Starting instance server at http://localhost:64352
+2024-08-08 22:32:36.279 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.400.v20240425-0840]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.400.v20240413-1529]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.300.v20231201-1637]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.400.v20240424-0956]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.400.v20240321-1245]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.400.v20240424-0444]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.37.0.v20231208-1346]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.400.v20240424-0956]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.400.v20240416-0658]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.400.v20240418-1547]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.400.v20240321-1245]
+> Start Eclipse SDK Themes [org.eclipse.ui.themes 1.2.2400.v20240213-1133]
+2024-08-08 22:32:37.555 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.126.202408041450]
+2024-08-08 22:32:37.684 - Total database drivers: 119 (119)
+> Start Help System Core [org.eclipse.help 3.10.400.v20240415-0528]
+2024-08-08 22:32:37.809 - Create actions
+2024-08-08 22:32:37.834 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-08-08 22:32:37.834 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-08-08 22:32:37.835 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2024-08-08 22:32:37.835 - Create workbench actions
+> Start Default Text Editor [org.eclipse.ui.editors 3.17.300.v20240524-2010]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.17.400.v20240524-2010]
+2024-08-08 22:32:39.182 - Initialize workbench window
+2024-08-08 22:32:39.185 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.136.202408041450]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.400.v20240413-1529]
+> Start Browser Support [org.eclipse.ui.browser 3.8.300.v20240524-2010]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.136.202408041450]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.16.0.202405290843]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.18.0.202405290843]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.96.202408041450]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.96.202408041450]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.133.202408041450]
+> Start DBeaver Dashboards Model [org.jkiss.dbeaver.model.dashboard 1.0.9.202408041450]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.173.202408041450]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.142.202408041450]
+2024-08-08 22:32:42.418 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.29.202408041450]
+> Start DBeaver Generic Plug-in [org.jkiss.dbeaver.ext.generic 2.3.222.202408041450]
+> Start DBeaver SQLite Model [org.jkiss.dbeaver.ext.sqlite 1.0.185.202408041450]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.127.202408041450]
+> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.112.202408041450]
+> Start DBeaver PostgreSQL Model [org.jkiss.dbeaver.ext.postgresql 2.1.209.202408041450]
+2024-08-08 22:33:48.377 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.112.202408041450]
+> Start Core Compare Support [org.eclipse.compare.core 3.8.500.v20240524-2010]
+> Start Console [org.eclipse.ui.console 3.14.100.v20240429-1358]
+> Start Debug Core [org.eclipse.debug.core 3.21.400.v20240415-0528]
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.114.202408041450]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.114.202408041450]
+2024-08-08 22:34:12.547 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.pom]
+2024-08-08 22:34:13.394 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.pom]
+2024-08-08 22:34:13.584 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.pom]
+2024-08-08 22:34:13.804 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-parent/1.9.1/waffle-parent-1.9.1.pom]
+2024-08-08 22:34:14.462 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.pom]
+2024-08-08 22:34:14.707 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.pom]
+2024-08-08 22:34:14.890 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.pom]
+2024-08-08 22:34:15.131 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom]
+2024-08-08 22:34:15.336 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom]
+2024-08-08 22:34:15.659 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.pom]
+2024-08-08 22:34:18.812 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.jar]
+2024-08-08 22:34:20.056 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar]
+2024-08-08 22:34:22.516 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.pom]
+2024-08-08 22:34:22.739 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-java-aggregator/2.5.0/postgis-java-aggregator-2.5.0.pom]
+2024-08-08 22:34:23.032 - Open [https://repo1.maven.org/maven2/org/testcontainers/testcontainers-bom/1.13.0/testcontainers-bom-1.13.0.pom]
+2024-08-08 22:34:23.350 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.jar]
+2024-08-08 22:34:23.567 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.pom]
+2024-08-08 22:34:23.835 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.jar]
+2024-08-08 22:34:24.070 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.jar]
+2024-08-08 22:34:24.385 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar]
+2024-08-08 22:34:25.295 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.jar]
+2024-08-08 22:34:27.059 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar]
+2024-08-08 22:34:27.339 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar]
+2024-08-08 22:34:27.592 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.jar]
+2024-08-08 22:34:28.414 - Open [https://raw.githubusercontent.com/pgjdbc/pgjdbc/master/LICENSE]
+2024-08-08 22:34:28.805 - Connect with 'postgres' (postgres-jdbc-19132f2563b-21d840eeed552ede)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.160.202408041450]
+2024-08-08 22:34:28.855 - Execution context opened (postgres; Main <postgres>; 0)
+2024-08-08 22:34:28.859 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2024-08-08 22:34:29.026 - The server requested SCRAM-based authentication, but no password was provided.
+org.jkiss.dbeaver.model.exec.DBCConnectException: The server requested SCRAM-based authentication, but no password was provided.
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:266)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:572)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:106)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:102)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:235)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:122)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:289)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:184)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:104)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:95)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:105)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:115)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.openDataSource(DataSourceDescriptor.java:1406)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect0(DataSourceDescriptor.java:1276)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:1061)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:78)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: The server requested SCRAM-based authentication, but no password was provided.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:397)
+	at org.postgresql.Driver.connect(Driver.java:305)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:109)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:83)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:222)
+	... 17 more
+2024-08-08 22:34:36.584 - Delete empty SQL script '\General\Scripts\Script.sql'
+> Start DBeaver Tasks View [org.jkiss.dbeaver.tasks.ui.view 1.0.85.202408041450]
+2024-08-08 22:49:28.760 - DBeaver is stopping
+2024-08-08 22:49:28.762 - Stop instance server
+2024-08-08 22:49:29.774 - DBeaver shutdown completed

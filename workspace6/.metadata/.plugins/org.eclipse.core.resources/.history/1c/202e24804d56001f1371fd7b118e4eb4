@@ -1,0 +1,9 @@
+create table members(
+	member_id serial Primary key,
+    first_name varchar(100),
+    last_name varchar(100),
+    date_of_birth date,
+    contact_number numeric(10),
+    email varchar(50), 
+    membership_date date
+);
