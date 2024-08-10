@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
+	<item id="NodeList/DBNDatabaseFolder">
+		<column name="Name" visible="true" order="0" width="121"/>
+	</item>
 	<item id="NodeList/DBNProjectDatabases/DBNBookmarkFolder/DBNDashboardFolder/DBNDiagramFolder/DBNResource">
 		<column name="Name" visible="true" order="0" width="124"/>
 		<column name="Path" visible="true" order="1" width="183"/>
@@ -10,19 +13,47 @@
 		<column name="Name" visible="true" order="0" width="266"/>
 		<column name="Description" visible="true" order="1" width="104"/>
 	</item>
+	<item id="NodeList/PostgreEventTrigger">
+		<column name="Name" visible="true" order="0" width="100"/>
+		<column name="Object ID" visible="true" order="1" width="100"/>
+		<column name="Event type" visible="true" order="2" width="100"/>
+		<column name="Function/Procedure" visible="true" order="3" width="169"/>
+		<column name="Enabled State" visible="true" order="4" width="122"/>
+		<column name="Object description (comment)" visible="true" order="5" width="250"/>
+	</item>
+	<item id="NodeList/PostgreExtension">
+		<column name="Name" visible="true" order="0" width="100"/>
+		<column name="Version" visible="true" order="1" width="100"/>
+		<column name="Relocatable" visible="true" order="2" width="105"/>
+		<column name="Schema" visible="true" order="3" width="101"/>
+		<column name="Tables" visible="true" order="4" width="100"/>
+		<column name="Conditions" visible="true" order="5" width="100"/>
+	</item>
+	<item id="NodeList/PostgreInformation/DBNDatabaseFolder">
+		<column name="Name" visible="true" order="0" width="204"/>
+	</item>
+	<item id="NodeList/PostgreRole">
+		<column name="Name" visible="true" order="0" width="258"/>
+		<column name="Object ID" visible="true" order="1" width="100"/>
+		<column name="Description" visible="true" order="2" width="104"/>
+	</item>
+	<item id="NodeList/PostgreSchema">
+		<column name="Name" visible="true" order="0" width="100"/>
+		<column name="Comment" visible="true" order="1" width="202"/>
+	</item>
 	<item id="NodeList/SQLiteTable">
 		<column name="Table Name" visible="true" order="0" width="135"/>
 		<column name="Table Type" visible="true" order="1" width="131"/>
 		<column name="Table Description" visible="true" order="2" width="151"/>
 	</item>
 	<item id="Suggestion/NodeList/PostgreTableColumn">
-		<column name="Column Name" visible="true" order="0" width="156"/>
-		<column name="#" visible="true" order="1" width="43"/>
-		<column name="Data type" visible="true" order="2" width="114"/>
-		<column name="Identity" visible="true" order="3" width="77"/>
+		<column name="Column Name" visible="true" order="0" width="169"/>
+		<column name="#" visible="true" order="1" width="37"/>
+		<column name="Data type" visible="true" order="2" width="123"/>
+		<column name="Identity" visible="true" order="3" width="71"/>
 		<column name="Collation" visible="false" order="4" width="100"/>
 		<column name="Not Null" visible="false" order="5" width="100"/>
 		<column name="Default" visible="false" order="6" width="315"/>
-		<column name="Comment" visible="true" order="4" width="96"/>
+		<column name="Comment" visible="true" order="4" width="90"/>
 	</item>
 </items>
