@@ -1,1 +1,1 @@
-{"resources":{"Scripts/Script.sql":{"default-datasource":"postgres-jdbc-19136833070-40a1caf843aaaad7","default-catalog":"Library management system"}}}
+{"resources":{"Scripts/Script-1.sql":{"default-datasource":"postgres-jdbc-1913b95870a-457a4b1cdc28969b","default-catalog":"Insurance Domain Database Management System"},"Scripts/Script.sql":{"default-schema":"public","default-datasource":"postgres-jdbc-19136833070-40a1caf843aaaad7","default-catalog":"Library management system"}}}

@@ -98,6 +98,27 @@
 				},
 				"auth-model": "native"
 			}
+		},
+		"postgres-jdbc-1913b95870a-457a4b1cdc28969b": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "Insurance Domain Database Management System",
+			"save-password": true,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "Insurance Domain Database Management System",
+				"url": "jdbc:postgresql://localhost:5432/Insurance Domain Database Management System",
+				"configurationType": "MANUAL",
+				"home": "postgresql-x64-16",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "false",
+					"@dbeaver-chosen-role@": ""
+				},
+				"auth-model": "native"
+			}
 		}
 	},
 	"connection-types": {

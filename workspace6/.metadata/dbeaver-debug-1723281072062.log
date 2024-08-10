@@ -1,0 +1,1247 @@
+2024-08-09 15:10:26.306 - DBeaver 24.1.4.202408041450 is starting
+2024-08-09 15:10:26.308 - OS: Windows 11 10.0 (amd64)
+2024-08-09 15:10:26.308 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-08-09 15:10:26.309 - Install path: 'C:\Users\vijay.n'
+2024-08-09 15:10:26.309 - Instance path: 'file:/C:/Users/vijay.n/AppData/Roaming/DBeaverData/workspace6/'
+2024-08-09 15:10:26.312 - Memory available 64Mb/1024Mb
+2024-08-09 15:10:26.325 - Create display
+2024-08-09 15:10:26.481 - Initialize desktop platform...
+2024-08-09 15:10:26.641 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.400.v20240426-1040]
+> Start Core Resource Management [org.eclipse.core.resources 3.20.200.v20240513-1323]
+> Start Team Support Core [org.eclipse.team.core 3.10.400.v20240413-1529]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.136.202408041450]
+2024-08-09 15:10:26.852 - Initialize base platform...
+2024-08-09 15:10:26.882 - Platform initialized (401ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.136.202408041450]
+2024-08-09 15:10:26.960 - Starting instance server at http://localhost:58222
+2024-08-09 15:10:26.972 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.400.v20240425-0840]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.400.v20240413-1529]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.300.v20231201-1637]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.400.v20240424-0956]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.400.v20240321-1245]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.400.v20240424-0444]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.37.0.v20231208-1346]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.400.v20240424-0956]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.400.v20240416-0658]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.400.v20240418-1547]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.400.v20240321-1245]
+> Start Default Text Editor [org.eclipse.ui.editors 3.17.300.v20240524-2010]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.17.400.v20240524-2010]
+2024-08-09 15:10:29.041 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.126.202408041450]
+2024-08-09 15:10:29.268 - Total database drivers: 119 (119)
+> Start Help System Core [org.eclipse.help 3.10.400.v20240415-0528]
+2024-08-09 15:10:29.362 - Create actions
+2024-08-09 15:10:29.371 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-08-09 15:10:29.372 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-08-09 15:10:29.372 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2024-08-09 15:10:29.373 - Create workbench actions
+2024-08-09 15:10:29.770 - Initialize workbench window
+2024-08-09 15:10:29.774 - Finish initialization
+> Start DBeaver Tasks View [org.jkiss.dbeaver.tasks.ui.view 1.0.85.202408041450]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.114.202408041450]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.136.202408041450]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.400.v20240413-1529]
+> Start Browser Support [org.eclipse.ui.browser 3.8.300.v20240524-2010]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.136.202408041450]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.173.202408041450]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.142.202408041450]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.16.0.202405290843]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.18.0.202405290843]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.96.202408041450]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.96.202408041450]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.133.202408041450]
+> Start DBeaver Dashboards Model [org.jkiss.dbeaver.model.dashboard 1.0.9.202408041450]
+2024-08-09 15:10:32.131 - Connect with 'DBeaver Sample Database (SQLite)' (dbeaver-sample-database-sqlite-1)
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.29.202408041450]
+> Start DBeaver Generic Plug-in [org.jkiss.dbeaver.ext.generic 2.3.222.202408041450]
+> Start DBeaver SQLite Model [org.jkiss.dbeaver.ext.sqlite 1.0.185.202408041450]
+2024-08-09 15:10:32.191 - Execution context opened (DBeaver Sample Database (SQLite); Main; 0)
+2024-08-09 15:10:32.337 - Connected (dbeaver-sample-database-sqlite-1, SQLite JDBC [3.46.0.1])
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.127.202408041450]
+> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.112.202408041450]
+> Start DBeaver PostgreSQL Model [org.jkiss.dbeaver.ext.postgresql 2.1.209.202408041450]
+2024-08-09 15:10:53.128 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.160.202408041450]
+2024-08-09 15:11:37.605 - Connect with 'Library management system' (postgres-jdbc-19136833070-40a1caf843aaaad7)
+2024-08-09 15:11:37.624 - Execution context opened (Library management system; Main <Library management system>; 1)
+2024-08-09 15:11:37.624 - Initiate connection to PostgreSQL database [Library management system@localhost] for Main <Library management system>
+2024-08-09 15:11:37.859 - Execution context opened (Library management system; Metadata <Library management system>; 2)
+2024-08-09 15:11:37.860 - Initiate connection to PostgreSQL database [Library management system@localhost] for Metadata <Library management system>
+2024-08-09 15:11:38.002 - Connected (postgres-jdbc-19136833070-40a1caf843aaaad7, PostgreSQL JDBC Driver [42.7.2])
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.112.202408041450]
+> Start Core Compare Support [org.eclipse.compare.core 3.8.500.v20240524-2010]
+> Start Console [org.eclipse.ui.console 3.14.100.v20240429-1358]
+> Start Debug Core [org.eclipse.debug.core 3.21.400.v20240415-0528]
+2024-08-09 15:12:08.453 - Execution context opened (Library management system; SQLEditor <Script.sql>; 3)
+2024-08-09 15:12:08.453 - Initiate connection to PostgreSQL database [Library management system@localhost] for SQLEditor <Script.sql>
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.114.202408041450]
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.31.202408041450]
+2024-08-09 15:12:56.817 - Error while analyzing query text: create table 
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.stm.STMTreeNode.getNodeName()" because "node" is null
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectIdentifier(SQLQueryModelRecognizer.java:343)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:441)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.120.202408041450]
+2024-08-09 15:26:17.659 - SQL Error [42P07]: ERROR: relation "staff" already exists
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42P07]: ERROR: relation "staff" already exists
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: relation "staff" already exists
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:30:09.092 - Error while analyzing query text: create table 
+
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.stm.STMTreeNode.getNodeName()" because "node" is null
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectIdentifier(SQLQueryModelRecognizer.java:343)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:441)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-09 15:35:40.170 - SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:40:09.648 - SQL Error [42P07]: ERROR: relation "authors" already exists
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42P07]: ERROR: relation "authors" already exists
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: relation "authors" already exists
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:40:30.118 - SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:42:50.385 - SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:43:25.846 - SQL Error [42P07]: ERROR: relation "members" already exists
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42P07]: ERROR: relation "members" already exists
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: relation "members" already exists
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:45:01.656 - SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:45:21.558 - SQL Error [42601]: ERROR: syntax error at end of input
+  Position: 274
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42601]: ERROR: syntax error at end of input
+  Position: 274
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at end of input
+  Position: 274
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:50:45.170 - SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:51:46.299 - SQL Error [42601]: ERROR: syntax error at or near "foreign"
+  Position: 196
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42601]: ERROR: syntax error at or near "foreign"
+  Position: 196
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at or near "foreign"
+  Position: 196
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+> Start Equinox Provisioning Metadata [org.eclipse.equinox.p2.metadata 2.9.100.v20240416-0654]
+2024-08-09 15:52:49.529 - SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:52:57.665 - SQL Error [42601]: ERROR: syntax error at or near ")"
+  Position: 178
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42601]: ERROR: syntax error at or near ")"
+  Position: 178
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at or near ")"
+  Position: 178
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:53:22.699 - Error while analyzing query text: alter table 
+select column_name from information_schema.columns where table_schema = 'public' and table_name ='authors'
+java.lang.UnsupportedOperationException
+	at org.jkiss.dbeaver.model.stm.STMTreeNode.getStmChild(STMTreeNode.java:93)
+	at org.jkiss.dbeaver.model.stm.STMTreeNode.getLastStmtChild(STMTreeNode.java:101)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:447)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-09 15:55:59.146 - SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 15:57:01.057 - SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:04:56.240 - SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:13:28.187 - SQL Error [42601]: ERROR: syntax error at or near "column"
+  Position: 17
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42601]: ERROR: syntax error at or near "column"
+  Position: 17
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at or near "column"
+  Position: 17
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:15:09.868 - SQL Error [42804]: ERROR: foreign key constraint "fk_key" cannot be implemented
+  Detail: Key columns "author_id" and "author_id" are of incompatible types: numeric and integer.
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42804]: ERROR: foreign key constraint "fk_key" cannot be implemented
+  Detail: Key columns "author_id" and "author_id" are of incompatible types: numeric and integer.
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: foreign key constraint "fk_key" cannot be implemented
+  Detail: Key columns "author_id" and "author_id" are of incompatible types: numeric and integer.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:15:26.288 - Error while analyzing query text: alter table 
+alter table books add constraint fk_key foreign key(author_id) references authors(author_id)
+java.lang.UnsupportedOperationException: identifier expected while facing with error
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectIdentifier(SQLQueryModelRecognizer.java:345)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:441)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-09 16:17:07.619 - SQL Error [42704]: ERROR: type "serial" does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42704]: ERROR: type "serial" does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: type "serial" does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:17:19.989 - SQL Error [42601]: ERROR: syntax error at or near "datatype"
+  Position: 42
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42601]: ERROR: syntax error at or near "datatype"
+  Position: 42
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at or near "datatype"
+  Position: 42
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:17:24.851 - SQL Error [42601]: ERROR: syntax error at or near "serial"
+  Position: 42
+
+Error position: line: 44 pos: 41
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42601]: ERROR: syntax error at or near "serial"
+  Position: 42
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at or near "serial"
+  Position: 42
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:18:20.278 - SQL Error [42P01]: ERROR: table "staff" does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42P01]: ERROR: table "staff" does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: table "staff" does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:29:11.785 - Error while analyzing query text: create table books(
+	book_id integer not null Primary key,
+	title varchar(100),
+	Foreign Key(author_id) References ()
+■ publication_year: Year the book was published.
+■ genre: Genre of the book (e.g., Fiction, Non-Fiction).
+■ isbn: International Standard Book Number.
+	available_copies integer
+)
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.stm.STMTreeNode.getNodeName()" because "node" is null
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectIdentifier(SQLQueryModelRecognizer.java:343)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:441)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-09 16:29:13.834 - Error while analyzing query text: create table books(
+	book_id integer not null Primary key,
+	title varchar(100),
+	Foreign Key(author_id) References (s)
+■ publication_year: Year the book was published.
+■ genre: Genre of the book (e.g., Fiction, Non-Fiction).
+■ isbn: International Standard Book Number.
+	available_copies integer
+)
+java.lang.UnsupportedOperationException
+	at org.jkiss.dbeaver.model.stm.STMTreeNode.getStmChild(STMTreeNode.java:93)
+	at org.jkiss.dbeaver.model.stm.STMTreeNode.getLastStmtChild(STMTreeNode.java:101)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:447)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-09 16:29:14.486 - Error while analyzing query text: create table books(
+	book_id integer not null Primary key,
+	title varchar(100),
+	Foreign Key(author_id) References ()
+■ publication_year: Year the book was published.
+■ genre: Genre of the book (e.g., Fiction, Non-Fiction).
+■ isbn: International Standard Book Number.
+	available_copies integer
+)
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.stm.STMTreeNode.getNodeName()" because "node" is null
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectIdentifier(SQLQueryModelRecognizer.java:343)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:441)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-09 16:30:50.742 - SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "author_id" referenced in foreign key constraint does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:37:50.678 - SQL Error [42P01]: ERROR: relation "information.schema_columns" does not exist
+  Position: 15
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42P01]: ERROR: relation "information.schema_columns" does not exist
+  Position: 15
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: relation "information.schema_columns" does not exist
+  Position: 15
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:40:25.920 - Error while analyzing query text: create table 
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.stm.STMTreeNode.getNodeName()" because "node" is null
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectIdentifier(SQLQueryModelRecognizer.java:343)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:441)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-09 16:42:40.988 - Error while analyzing query text: alter table 
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.stm.STMTreeNode.getNodeName()" because "node" is null
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectIdentifier(SQLQueryModelRecognizer.java:343)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:441)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-09 16:44:12.193 - SQL Error [42703]: ERROR: column "book_id" referenced in foreign key constraint does not exist
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column "book_id" referenced in foreign key constraint does not exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column "book_id" referenced in foreign key constraint does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:47:04.944 - Error while analyzing query text: alter table 
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.stm.STMTreeNode.getNodeName()" because "node" is null
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectIdentifier(SQLQueryModelRecognizer.java:343)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:441)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-09 16:47:47.546 - Bad foreign key attribute index: 5
+2024-08-09 16:47:47.548 - Bad foreign key attribute index: 6
+2024-08-09 16:47:47.556 - Can't find reference constraint for foreign key 'public.loans.fk1'
+2024-08-09 16:47:47.562 - Can't find reference constraint for foreign key 'public.loans.fk2'
+2024-08-09 16:48:28.037 - Can't parse numeric value [loan_id (Primary Key): Unique identifier for each loan record.
+■ book_id (Foreign Key): References the book being borrowed.
+■ member_id (Foreign Key): References the member borrowing the book.
+■ loan_date: Date when the book was borrowed.
+■ return_date: Date when the book is due to be returned.
+■ actual_return_date: Date when the book was actually returned.] using formatter: For input string: "loan"
+2024-08-09 16:48:28.050 - Can't parse numeric value [loan_id (Primary Key): Unique identifier for each loan record.
+■ book_id (Foreign Key): References the book being borrowed.
+■ member_id (Foreign Key): References the member borrowing the book.
+■ loan_date: Date when the book was borrowed.
+■ return_date: Date when the book is due to be returned.
+■ actual_return_date: Date when the book was actually returned.] using formatter: For input string: "loan"
+2024-08-09 16:48:28.080 - Can't parse numeric value [loan_id (Primary Key): Unique identifier for each loan record.
+■ book_id (Foreign Key): References the book being borrowed.
+■ member_id (Foreign Key): References the member borrowing the book.
+■ loan_date: Date when the book was borrowed.
+■ return_date: Date when the book is due to be returned.
+■ actual_return_date: Date when the book was actually returned.] using formatter: For input string: "loan"
+2024-08-09 16:48:28.122 - Can't parse numeric value [loan_id (Primary Key): Unique identifier for each loan record.
+■ book_id (Foreign Key): References the book being borrowed.
+■ member_id (Foreign Key): References the member borrowing the book.
+■ loan_date: Date when the book was borrowed.
+■ return_date: Date when the book is due to be returned.
+■ actual_return_date: Date when the book was actually returned.] using formatter: For input string: "loan"
+2024-08-09 16:48:28.151 - Can't parse numeric value [loan_id (Primary Key): Unique identifier for each loan record.
+■ book_id (Foreign Key): References the book being borrowed.
+■ member_id (Foreign Key): References the member borrowing the book.
+■ loan_date: Date when the book was borrowed.
+■ return_date: Date when the book is due to be returned.
+■ actual_return_date: Date when the book was actually returned.] using formatter: For input string: "loan"
+2024-08-09 16:49:09.820 - Error while analyzing query text: alter table 
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.stm.STMTreeNode.getNodeName()" because "node" is null
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectIdentifier(SQLQueryModelRecognizer.java:343)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:441)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-09 16:51:52.018 - Error while analyzing query text: alter table 
+
+java.lang.NullPointerException: Cannot invoke "org.jkiss.dbeaver.model.stm.STMTreeNode.getNodeName()" because "node" is null
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectIdentifier(SQLQueryModelRecognizer.java:343)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectQualifiedName(SQLQueryModelRecognizer.java:441)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.collectTableName(SQLQueryModelRecognizer.java:422)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.traverseForIdentifiers(SQLQueryModelRecognizer.java:238)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:183)
+	at org.jkiss.dbeaver.model.sql.semantics.SQLQueryModelRecognizer.recognizeQuery(SQLQueryModelRecognizer.java:735)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob.doWork(SQLBackgroundParsingJob.java:542)
+	at org.jkiss.dbeaver.ui.editors.sql.semantics.SQLBackgroundParsingJob$1.run(SQLBackgroundParsingJob.java:90)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-08-09 16:54:16.008 - SQL Error [42601]: ERROR: syntax error at or near "1"
+  Position: 19
+
+Error position: line: 71 pos: 18
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42601]: ERROR: syntax error at or near "1"
+  Position: 19
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at or near "1"
+  Position: 19
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 16:55:03.357 - SQL Error [23503]: ERROR: insert or update on table "books" violates foreign key constraint "books_author_id_fkey"
+  Detail: Key (author_id)=(2) is not present in table "authors".
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [23503]: ERROR: insert or update on table "books" violates foreign key constraint "books_author_id_fkey"
+  Detail: Key (author_id)=(2) is not present in table "authors".
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:528)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: insert or update on table "books" violates foreign key constraint "books_author_id_fkey"
+  Detail: Key (author_id)=(2) is not present in table "authors".
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 11 more
+2024-08-09 17:33:39.029 - SQL Error [42703]: ERROR: column b.title does not exist
+  Position: 8
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column b.title does not exist
+  Position: 8
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column b.title does not exist
+  Position: 8
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 17:35:13.485 - SQL Error [42703]: ERROR: column m.email does not exist
+  Position: 88
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42703]: ERROR: column m.email does not exist
+  Position: 88
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: column m.email does not exist
+  Position: 88
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 17:42:30.698 - SQL Error [23503]: ERROR: insert or update on table "loans" violates foreign key constraint "fk2"
+  Detail: Key (member_id)=(5) is not present in table "members".
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [23503]: ERROR: insert or update on table "loans" violates foreign key constraint "fk2"
+  Detail: Key (member_id)=(5) is not present in table "members".
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:528)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: insert or update on table "loans" violates foreign key constraint "fk2"
+  Detail: Key (member_id)=(5) is not present in table "members".
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 11 more
+2024-08-09 17:46:36.932 - SQL Error [42601]: ERROR: syntax error at or near "unique"
+  Position: 60
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42601]: ERROR: syntax error at or near "unique"
+  Position: 60
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at or near "unique"
+  Position: 60
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 17:46:50.664 - SQL Error [42601]: ERROR: syntax error at or near "unique"
+  Position: 57
+
+Error position: line: 127 pos: 56
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42601]: ERROR: syntax error at or near "unique"
+  Position: 57
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at or near "unique"
+  Position: 57
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 17:47:22.119 - SQL Error [42601]: ERROR: syntax error at or near "by"
+  Position: 52
+
+Error position: line: 127 pos: 51
+org.jkiss.dbeaver.model.sql.DBSQLException: SQL Error [42601]: ERROR: syntax error at or near "by"
+  Position: 52
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:133)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:615)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:506)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:525)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:977)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4195)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:192)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5160)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: ERROR: syntax error at or near "by"
+  Position: 52
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2725)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2412)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:330)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:131)
+	... 12 more
+2024-08-09 18:31:25.898 - Execution context closed (Library management system, 3)
+2024-08-09 18:31:26.283 - DBeaver is stopping
+2024-08-09 18:31:26.285 - Stop instance server
+2024-08-09 18:31:27.325 - DBeaver shutdown completed
